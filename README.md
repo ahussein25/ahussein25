@@ -1,2 +1,3 @@
-Ali Hussein
-OPS435NAA - Winter 2020
+Student Name: Ali Hussein
+
+Course-Section: OPS435NAA
